@@ -5,3 +5,6 @@
 check_mouse_position.py を使って、スクリーンショットする画面の座標を特定し、特定した座標を Kindle_to_PDF_Auto.py に入力し、処理を実行すると、指定したページ数に到達するまでスクリーンショットを行います。
 
 create_pdf.py を実行すると、スクリーンショットした画像が1つの PDF ファイルにまとめられます
+
+以下の記事を参考にして作られました
+https://note.com/rara_kaikeishi/n/n3e4779654fc9
